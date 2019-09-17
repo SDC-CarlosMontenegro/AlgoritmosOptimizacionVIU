@@ -1,0 +1,2 @@
+# AlgoritmosOptimizacionVIU
+ALGORITMO DE OPTIMIZACION VIU
